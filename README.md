@@ -1,6 +1,5 @@
 # hello-world
 First Repository
 
-
-Testing it out
-Like what i see so far.
+Following the steps on the homepage
+Looking to enhance my coding skills
